@@ -16,6 +16,6 @@ d.addEventListener("click", e => {
   }
 
    if(e.target === $btn) {
-     $video.classList.add("visible");
+     window.href = "https://drive.google.com/file/d/1B7t_xZ4PMewbw7LMHHQ4C48w7tRzzFhp/view?usp=sharing";
     }
 });
